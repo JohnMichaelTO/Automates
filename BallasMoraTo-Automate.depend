@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1369957392 source:e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.cpp
+	"BallasMoraTo-ClassEtat.h"
+
+1369957370 e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.h
+	<string>
+	"BallasMoraTo-structures.h"
+
+1369949734 e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-structures.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1369957398 source:e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.cpp
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957376 e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.h
+	<string>
+	"BallasMoraTo-ClassEtat.h"
+
+1369957412 source:e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369957368 e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957380 e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1370018516 source:e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-structures.h"
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369957388 source:e:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369957392 source:k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.cpp
+	"BallasMoraTo-ClassEtat.h"
+
+1369957370 k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.h
+	<string>
+	"BallasMoraTo-structures.h"
+
+1369949734 k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-structures.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1369957398 source:k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.cpp
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957376 k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.h
+	<string>
+	"BallasMoraTo-ClassEtat.h"
+
+1369957412 source:k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369957368 k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957380 k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1370018516 source:k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-structures.h"
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1370479098 source:k:\efrei\l2\semestre_2\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369957392 source:c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classetat.cpp
+	"BallasMoraTo-ClassEtat.h"
+
+1369957370 c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classetat.h
+	<string>
+	"BallasMoraTo-structures.h"
+
+1369949734 c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-structures.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1369957398 source:c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classtransition.cpp
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957376 c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classtransition.h
+	<string>
+	"BallasMoraTo-ClassEtat.h"
+
+1370506152 source:c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-fonctions.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1370503047 c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classautomate.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369957380 c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-fonctions.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1370479364 source:c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-structures.h"
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1370505882 source:c:\users\john\desktop\tai_mpi\ballasmorato\ballasmorato-classautomate.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1370527484 source:h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1369978970 h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.h
+	<string>
+	"BallasMoraTo-structures.h"
+
+1369971334 h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-structures.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1369978976 h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.h
+	<string>
+	"BallasMoraTo-ClassEtat.h"
+
+1370524648 h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classautomate.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369978980 h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.h
+	<vector>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1369978992 source:h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classetat.cpp
+	"BallasMoraTo-ClassEtat.h"
+
+1369978998 source:h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-classtransition.cpp
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+
+1370527754 source:h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-fonctions.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
+1370500964 source:h:\efrei\l2\semestre_4\mathematiques_pour_l_informatique\tai\ballasmorato\ballasmorato-main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"BallasMoraTo-structures.h"
+	"BallasMoraTo-ClassEtat.h"
+	"BallasMoraTo-ClassTransition.h"
+	"BallasMoraTo-ClassAutomate.h"
+	"BallasMoraTo-Fonctions.h"
+
